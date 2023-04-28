@@ -1,6 +1,6 @@
 {
     "out": "./docs",
-    "name": "@antibot/salt",
+    "name": "@antibot/embeds",
     "readme": "./README.md",
     "theme": "default",
     "entryPoints": ["src/index.ts"],
