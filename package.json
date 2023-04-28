@@ -12,6 +12,7 @@
     "doc": "typedoc"
   },
   "dependencies": {
+    "typedoc": "^0.24.6",
     "typescript": "^5.0.4"
   },
   "repository": {
