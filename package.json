@@ -1,0 +1,41 @@
+{
+  "name": "@antibot/embeds",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.js",
+  "author": "J_DDev <69683068+JayyDoesDev@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "start": "node __tests__/index.js",
+    "prepublish": "yarn build",
+    "doc": "typedoc"
+  },
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "repository": {
+    "url": "https://github.com/antibot-team/embeds"
+  },
+  "contributors": [
+    {
+      "name": "J_DDev",
+      "url": "https://github.com/JayyDoesDev"
+    }
+  ],
+  "keywords": [
+    "discord-embed",
+    "discord.js",
+    "eris",
+    "embeds",
+    "anti-bot",
+    "antibot",
+    "embed",
+    "embeddiscord",
+    "discordembed",
+    "embed-discord",
+    "discord",
+    "vultrex-development",
+    "vultrex"
+  ]
+}
