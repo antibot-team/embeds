@@ -2,7 +2,7 @@
  🔷 A module for Discord embeds! Using this module you can send embed data.
 
 ## Docs
-https://antibot-team.github.io/embeds/
+https://embeds.antibot.xyz
 ```js
 const { DiscordEmbed, EmbedColor } = require("@antibot/embeds");
 const embed = new DiscordEmbed()
